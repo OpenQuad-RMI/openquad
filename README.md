@@ -74,3 +74,7 @@ Since we will be using tmux as our terminal and docker it is better to go throug
 # Installing on native machine
 If you want to install the setup on your native machine then follow the steps given in this [link](https://arksn21.gitbook.io/openquad-documentation/).
 You might face a lot of problems installing it from scratch.
+
+# To be done
+- [x] Intel hardware acceleration
+- [ ] Nvidia hardware acceleration using docker
