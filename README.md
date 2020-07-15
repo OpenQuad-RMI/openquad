@@ -1,3 +1,7 @@
+# To be done
+- [x] Intel hardware acceleration
+- [ ] Nvidia hardware acceleration using docker
+
 # Installing docker
 These instructions have been taken from [link](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 These steps are for ubuntu 18.04 if you have any other version this might not work.
